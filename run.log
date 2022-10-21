@@ -1,0 +1,146 @@
+[info]ImportTwitter start
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:98; success rows:98
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:98; success rows:98
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:98; success rows:98
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:98; success rows:98
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:99; success rows:99
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+Inserting twitter rows:100; success rows:100
+{"level":"[error]","function":"ImportTwitter ReadAndSave","message":"data error lines 10001, too short"}
+[info]ImportTwitter ReadAndSave end, read lines:10001, success lines:10000, unless lines:1
+[info]start ImportLinkedin
+Inserting linkedin rows:99; success rows:99
+[info]ImportLinkedin handled lines 100
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 200
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 300
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 400
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 500
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 600
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 700
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 800
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 900
+Inserting linkedin rows:100; success rows:100
+[info]ImportLinkedin handled lines 1000
+[info]ImportLinkedin import successfully
+[info]set relationship start
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"9479922","linkedin_id":"387","first_name":"John","last_name":"Weber","email":"john.weber@softwaretoolbox.com"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"771836","linkedin_id":"471","first_name":"Chris","last_name":"Duncan","email":"chris@dwmanages.com"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"7596762","linkedin_id":"574","first_name":"Erin","last_name":"Wilson","email":"erin@independentshe.com"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"11804082","linkedin_id":"622","first_name":"Corey","last_name":"Larkins","email":"corey@hyperlocalgroup.com"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"23133","linkedin_id":"729","first_name":"Brian","last_name":"Phillips","email":"brian@medshift.com"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"13394402","linkedin_id":"790","first_name":"Matt","last_name":"Wilson","email":"MWilson@printmgt.biz"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"7136612","linkedin_id":"912","first_name":"James","last_name":"Smith","email":"james@executivesellers.com"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"669513","linkedin_id":"916","first_name":"Adam","last_name":"Williams","email":"awilliams@legacycre.com"}]
+Inserting relationship rows:1; success rows:1
+[info][{"twitter_id":"12205352","linkedin_id":"945","first_name":"Joshua","last_name":"Miller","email":"joshua@charlottesbestnanny.com"}]
+[info]set relationship end
+[info]run successfully
