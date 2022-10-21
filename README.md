@@ -26,6 +26,11 @@ We assume that the two datasets are twitter and linkedin users, and we want to f
 
 ----------------------------------------------------------------
 
+### environment
+
+- PHP 7.3.32 ( NTS )
+- MySQL 5.7.36
+
 ### how to run
 
 1. 新建数据库 `testdata`，导入data.sql。
