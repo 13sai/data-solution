@@ -1,31 +1,5 @@
 ## README
 
-## Your challenge/task
-
-Import the data set and associate as much data as possible
-
-There are two small datasets in this directory, please design the tables and import them to the database separately.
-
-We assume that the two datasets are twitter and linkedin users, and we want to find the connection between them.
-
-## Task Specifications
-
-*  Statements for creating tables
-*  Scripts for importing datasets
-*  Script to find the connection
-   -  Let's assume that people with the same name are the same person, and people with the same email are also the same person.
-   -  When we associate the two datasets, we can find the company name of a person by his twitter account.
-   -  You can create a new table to store this relationship, twitter account -> linkedin name
-   -  Note that some people may have a middle name, we assume that if the first and last names match, it is the same person.
-
-## Notes
-* Please consider indexes when designing tables, as this is a small dataset, and in the real world, we may be running on files with millions of rows
-* Please use `php` or `python` to write the script
-* Please use`mysql` as database
-* Don't worry if you can't find an associated person, since this is a small test dataset and we are only focusing on the code side.
-
-----------------------------------------------------------------
-
 ### environment
 
 - PHP 7.3.32 ( NTS )
@@ -98,5 +72,29 @@ $data = \json_decode($row, true);
 3. 解析 name 需要注意 middle name，所以解析只保留字符串头和尾（切割为数组取第一个和最后一个）
 4. 解答过程中发现有 unicode 编码成的形似英文字母的 unicode，如 \u1d05\u1d00\u0274\u026a\u1d07\u029f \u1d0d\u026a\u1d07ss\u029f\u1d07\u0280 ，这个暂时没有想到比较好的方法，后续可优化
 
+----------------------------------------------------------------
 
 
+## Your challenge/task
+
+Import the data set and associate as much data as possible
+
+There are two small datasets in this directory, please design the tables and import them to the database separately.
+
+We assume that the two datasets are twitter and linkedin users, and we want to find the connection between them.
+
+## Task Specifications
+
+*  Statements for creating tables
+*  Scripts for importing datasets
+*  Script to find the connection
+   -  Let's assume that people with the same name are the same person, and people with the same email are also the same person.
+   -  When we associate the two datasets, we can find the company name of a person by his twitter account.
+   -  You can create a new table to store this relationship, twitter account -> linkedin name
+   -  Note that some people may have a middle name, we assume that if the first and last names match, it is the same person.
+
+## Notes
+* Please consider indexes when designing tables, as this is a small dataset, and in the real world, we may be running on files with millions of rows
+* Please use `php` or `python` to write the script
+* Please use`mysql` as database
+* Don't worry if you can't find an associated person, since this is a small test dataset and we are only focusing on the code side.
